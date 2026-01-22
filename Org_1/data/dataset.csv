@@ -1,0 +1,21 @@
+id,age,income,city,complaint_text_clean,review_text_clean,target
+1,34,56000,Delhi,late delivery,product arrived after 10 days,0
+2,45,72000,Mumbai,refund issue,refund not processed for 2 weeks,1
+3,29,48000,Bangalore,wrong item,received a different product than ordered,0
+4,52,91000,Delhi,damaged product,box was broken and item was damaged,1
+5,41,68000,Pune,missing accessories,charger and cable were missing from box,1
+6,37,62000,Hyderabad,late delivery,delivery was delayed without any update,0
+7,26,39000,Chennai,poor quality,product quality was worse than expected,1
+8,48,85000,Mumbai,refund delay,refund still pending after multiple calls,1
+9,33,54000,Bangalore,installation issue,technician did not arrive for installation,0
+10,39,61000,Delhi,wrong billing,charged extra amount on final bill,1
+11,44,76000,Noida,service unavailable,service was not available in my area,0
+12,28,42000,Jaipur,app crash,application crashes during payment,0
+13,50,98000,Gurgaon,account blocked,account was blocked without any reason,1
+14,36,59000,Pune,delivery attempt failed,courier marked delivery failed without visiting,0
+15,31,51000,Kolkata,cancellation issue,unable to cancel order from app,0
+16,47,83000,Mumbai,refund issue,refund promised but not received yet,1
+17,35,60000,Bangalore,late delivery,order reached much later than expected date,0
+18,42,72000,Delhi,customer support rude,support agent was rude and unhelpful,1
+19,27,41000,Indore,payment failed,amount deducted but order not placed,1
+20,55,105000,Chennai,warranty claim rejected,warranty claim was rejected incorrectly,1
